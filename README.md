@@ -1,4 +1,5 @@
 # Sams Feature Flags
+# Added some text
 
 [![Build](https://github.com/samsmithnz/FeatureFlags/workflows/Feature%20Flags%20CI%2FCD/badge.svg)](https://github.com/samsmithnz/SamsFeatureFlags/actions?query=workflow%3A%22Feature+Flags+CI%2FCD%22) 
 [![Coverage Status](https://coveralls.io/repos/github/samsmithnz/SamsFeatureFlags/badge.svg?branch=main)](https://coveralls.io/github/samsmithnz/SamsFeatureFlags?branch=main)
